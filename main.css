@@ -1,4 +1,32 @@
-* {
+.row {
+    display: flex;
+    /* flex-wrap: row; */
+    /* justify-content: space-around; */
+    /* align-items: center; */
+}
+
+.item {
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    border: 2px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-output {
+    height: 100px;
+    width: 308px;
+    background-color: dodgerblue;
+    border: 2px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* * {
     box-sizing: border-box;
 }
 
@@ -12,35 +40,4 @@
 
 header {
     text-align: right;
-}
-
-.container {
-    display: flex;
-    background-color: DodgerBlue;
-    /* flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around; */
-}
-
-.row {
-    /* flex: 1 0 auto; */
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
-    font-size: 30px;
-}
-
-.divider {
-    border: 1px solid #888989;
-    margin: 2px 0;
-    height: 10px;
-    /* clear: right; */
-
-}
-
-/* .first-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
 } */
