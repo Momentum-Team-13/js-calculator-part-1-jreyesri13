@@ -1,3 +1,7 @@
-Need to update button class to have same general dimensions.
+To Do
+Rename classes and organize by color theme.
 
-The other classes will just have color layout and sizing?
+
+Completed
+Need to update button class to have same general dimensions.
+The other classes will just have color layout and sizing. 
