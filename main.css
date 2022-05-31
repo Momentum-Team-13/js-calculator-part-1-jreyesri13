@@ -13,9 +13,9 @@
     align-items: center;
 }
 
-.button {  
+.button {
     height: 100px;
-    width: 100px;  
+    width: 100px;
     border: 2px solid RGB(28, 28, 28);
     display: flex;
     justify-content: center;
