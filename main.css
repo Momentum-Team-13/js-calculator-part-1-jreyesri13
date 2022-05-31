@@ -5,16 +5,6 @@
     /* align-items: center; */
 }
 
-.button {  
-    height: 100px;
-    width: 100px;  
-    border: 2px solid RGB(28, 28, 28);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* For JS functions */
-}
-
 #display {
     height: 100px;
     width: 412px;
@@ -26,6 +16,14 @@
     align-items: center;
 }
 
+.button {  
+    height: 100px;
+    width: 100px;  
+    border: 2px solid RGB(28, 28, 28);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .item-special {
     background-color: RGB(212, 212, 210);
@@ -60,17 +58,6 @@
     align-items: center; */
 }
 
-.item-dot {
-    background-color: RGB(80, 80, 80);
-    color: white;
-    /* height: 100px;
-    width: 100px;
-    border: 2px solid RGB(28, 28, 28);
-    display: flex;
-    justify-content: center;
-    align-items: center; */
-}
-
 .item-zero {
     background-color: RGB(80, 80, 80);
     color: white;
@@ -81,69 +68,3 @@
     justify-content: center;
     align-items: center; */
 }
-
-
-
-
-/* 
-.item-output {
-    height: 100px;
-    width: 308px;
-    background-color: dodgerblue;
-    border: 2px solid lightgrey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.item {
-    height: 100px;
-    width: 100px;
-    background-color: dodgerblue;
-    border: 2px solid lightgrey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-*/
-
-
-/* 
-.item {
-    height: 100px;
-    width: 100px;
-    background-color: dodgerblue;
-    border: 2px solid lightgrey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.item-output {
-    height: 100px;
-    width: 308px;
-    background-color: dodgerblue;
-    border: 2px solid lightgrey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-*/
-
-
-/*
-* {
-    box-sizing: border-box;
-}
-
-.calc-border {
-    border: 2px solid black;
-    width: 270px;
-    margin: 20px auto;
-    padding: 0 7px;
-    border-radius: 10px;
-}
-
-header {
-    text-align: right;
-} */
