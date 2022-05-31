@@ -9,7 +9,7 @@
     /* For JS functions */
 }
 
-.item-output {
+#display {
     height: 100px;
     width: 412px;
     background-color: RGB(28, 28, 28);
