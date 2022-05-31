@@ -1,6 +1,4 @@
 To Do
-Rename classes and organize by color theme.
-
 Work on special operators.
 
 Change look to be more like the Apple calculator app.
@@ -9,3 +7,5 @@ Change look to be more like the Apple calculator app.
 Completed
 Need to update button class to have same general dimensions.
 The other classes will just have color layout and sizing. 
+
+Rename classes and organize by color theme.

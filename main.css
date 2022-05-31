@@ -1,8 +1,5 @@
 .row {
     display: flex;
-    /* flex-wrap: row; */
-    /* justify-content: space-around; */
-    /* align-items: center; */
 }
 
 #display {
@@ -28,34 +25,16 @@
 .item-special {
     background-color: RGB(212, 212, 210);
     color: RGB(28, 28, 28);
-    /* height: 100px;
-    width: 100px;
-    border: 2px solid RGB(28, 28, 28);
-    display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .item-operator {
     background-color: RGB(255, 149, 0);
     color: white;
-    /* height: 100px;
-    width: 100px;
-    border: 2px solid RGB(28, 28, 28);
-    display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .item-number {
     background-color: RGB(80, 80, 80);
     color: white;
-    /* height: 100px;
-    width: 100px;
-    border: 2px solid RGB(28, 28, 28);
-    display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .item-zero {
@@ -63,8 +42,4 @@
     color: white;
     height: 100px;
     width: 204px;
-    /* border: 2px solid RGB(28, 28, 28);
-    display: flex;
-    justify-content: center;
-    align-items: center; */
 }
